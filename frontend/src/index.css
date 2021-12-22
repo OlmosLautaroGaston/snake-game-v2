@@ -19,7 +19,7 @@
   position: absolute;
   width: 2%;
   height: 2%;
-  background: red;
+  background: rgb(22, 129, 49);
   border: 1px solid #fff;
   z-index: 1;
 }
